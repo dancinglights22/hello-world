@@ -5,3 +5,4 @@ Hello World GitHub tutorial
 Can fetch from origin/master? NO
 igore the merge and update local
 la sao cung chua hieu lam :D
+cai det^^
